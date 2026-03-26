@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# Env files (secrets)
+.env
+.env.*
+
+# Logs / local data
+logs/
+*.log
+
+# Uploaded files / artifacts
+uploads/
+
+# Build output (if any)
+dist/
+build/
+.cache/
+
+# IDE / Cursor
+.vscode/
+.cursor/
+
